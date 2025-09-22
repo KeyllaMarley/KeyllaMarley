@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou a Keylla Marley👩🏽‍💻
 
-<!--
-**KeyllaMarley/KeyllaMarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔍 Explorando Front-End, HTML, CSS, javascript e GitHub  
+📌 Meus projetos: Meu Jogo HTML, outros em breve  
+📫 Contato: keylla2017.m@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/keylla-marley-41154917a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou aprendendo:
+
+- HTML5, CSS e Javascript
+- Git & GitHub
+- Lógica de programação
+- Banco de Dados
+
+
