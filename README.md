@@ -1,7 +1,7 @@
 # Olá! Eu sou a Keylla Marley👩🏽‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔍 Explorando Front-End, HTML, CSS, javascript e GitHub  
+🔍 Explorando 
 📌 Meus projetos: Meu Jogo HTML 
 
 📫 Contato: keylla2017.m@gmail.com  
