@@ -1,8 +1,8 @@
 # Olá! Eu sou a Keylla Marley 👩🏾‍💻
 
-> Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento Front-end | Em busca do meu primeiro estágio em TI
+> Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento | Em busca do meu primeiro estágio em TI
 
-Sou apaixonada por tecnologia e estou construindo uma base sólida em desenvolvimento web. Acredito que consistência e curiosidade são os melhores ativos de quem está começando.
+Sou apaixonada por tecnologia e estou construindo uma base sólida em desenvolvimento. Acredito que consistência e curiosidade são os melhores ativos de quem está começando.
 
 ---
 
