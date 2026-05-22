@@ -2,7 +2,7 @@
 
 > Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento | Em busca do meu primeiro estágio em TI
 
-Sou apaixonada por tecnologia e estou construindo uma base sólida em desenvolvimento. Acredito que consistência e curiosidade são os melhores ativos de quem está começando.
+Estou construindo uma base sólida em desenvolvimento. Acredito que consistência e curiosidade são os melhores ativos de quem está começando.
 
 ---
 
